@@ -29,5 +29,5 @@ New get Package manager then
 Package manager console  and then
 
 Add-migration initial create ,
-update-database 
-this will create databse and tables for you 
+update-database ,
+--------this will create databse   and tables for you 
