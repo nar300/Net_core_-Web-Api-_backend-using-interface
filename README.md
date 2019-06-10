@@ -1,17 +1,18 @@
 # Net-core-backend using Interface
 .Net Core Web API back end using Interface  for React Blog / Angular Blog front end in my Repositories
 
-Install visual studio 
-open project in Visual Studio
-Simply run the application 
+Install visual studio ,
+open project in Visual Studio,
+
 #Install Entity Frame work
 --------------------------
 Go to Solution Explorer Right click on project folder right click and go to Manage new get packages
 go to browse and search following 
 
-install entityframework core Sql server 2.14 
-install entityframework core Tools      2.14
-2.14 is more stable or you can use 2.2 
+ entityframework core Sql server 2.14 --install,
+ entityframework core Tools      2.14---install,
+ 
+2.14 is more stable or you can use 2.2 ,
 
 # NuGet Command : Install Web API Cors
 -------------------------------
