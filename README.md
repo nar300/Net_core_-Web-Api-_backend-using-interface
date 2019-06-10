@@ -28,6 +28,6 @@ go to tools then
 New get Package manager then
 Package manager console  and then
 
-Add-migration initial create ,
-update-database ,
+Add-migration initial create hit enter ,and then type--
+update-database hit enter ,
 --------this will create databse   and tables for you 
