@@ -26,8 +26,8 @@ Install-Package Microsoft.AspNet.WebApi.Core
 ---------------
 go to tools then
 New get Package manager then
-Package manager console  and then
+Package manager console  and -Start Typing--
 
-Add-migration initial create hit enter ,and then type--
-update-database hit enter ,
+Add-migration initial create -then hit enter ,and then start typing--
+update-database -then hit enter ,
 --------this will create databse   and tables for you 
